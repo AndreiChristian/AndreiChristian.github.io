@@ -1,0 +1,57 @@
+body {
+    background-image: url(RESOURCES/nightBeach.jpg);
+    background-size: cover;
+}
+
+ /* .launch {
+    width: 100px;
+    height: 100px;
+    
+    position: absolute;
+    top:0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    size: auto;
+    margin: auto;
+    font-size: 30px;
+    color: white;
+}  */
+a {
+    text-decoration: none;
+    font-size: 40px;
+    color: #fff;
+        text-shadow:
+          0 0 7px #fff;
+    left: 0;
+    line-height: 200px;
+    margin-top: -100px;
+    position: absolute;
+    text-align: center;
+    top: 50%;
+    width: 100%;
+
+}
+a:hover {
+    transition: 300ms linear;
+    text-decoration: none;
+    font-size: 85px;
+    color: #fff;
+    text-shadow:
+          0 0 7px violet,
+          0 0 10px blue,
+          0 0 21px red,
+          0 0 42px pink,
+          0 0 82px rebeccapurple,
+          0 0 92px royalblue,
+          0 0 102px blue,
+          0 0 151px blueviolet,
+          0 0 170px violet,
+          0 0 180px blue,
+          0 0 190px red,
+          0 0 200px pink,
+          0 0 210px rebeccapurple,
+          0 0 220px royalblue,
+          0 0 230px blue,
+          0 0 240px blueviolet;
+} 
